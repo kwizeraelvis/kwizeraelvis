@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kwizera Elvis</h1>
-<h3 align="center">I am a Backend Developer from Kigali, Rwanda, currently working at <a href="http://www.github.com/takitrw">Takit</a></h3>
+<h3 align="center">I am a Backend Developer from Kigali, Rwanda, currently working at <a href="http://www.github.com/hacksplash">HackSplash</a></h3>
 
 - 🌱 I’m currently learning **Kotlin**
 
